@@ -1,3 +1,13 @@
+
+
+internet GW
+<img width="1157" alt="Screenshot 2023-12-19 at 21 21 33" src="https://github.com/tomidea/PBL/assets/51254648/7906db93-ee87-41af-8928-2d3d8ecc78a0">
+
+alb
+<img width="1092" alt="Screenshot 2023-12-19 at 22 03 04" src="https://github.com/tomidea/PBL/assets/51254648/3b778344-f0f4-47d1-af2e-f524a195c067">
+
+
+
 Our main vpc
 
 <img width="991" alt="ACS-VPC" src="https://user-images.githubusercontent.com/51254648/172116903-d0a1ca16-fa1a-48ad-83c9-ae74a84838b8.png">
